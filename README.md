@@ -11,8 +11,8 @@ Saída: se o arquivo for salvo com sucesso ele dá uma mensagem dizendo que foi 
 
 
 Autores:
-@Rezende99
-@Tommysfp
+Samuel Andrade Resende
+Thomas Sheldon Freire Padley 
 
 Conversa com a IA:
 Nos pedimos a IA para nos dar os requisitos funcionais do sistema a nossa pergunta foi:
