@@ -11,7 +11,7 @@ Saída: se o arquivo for salvo com sucesso ele dá uma mensagem dizendo que foi 
 
 
 Autores:
-Samuel Andrade Resende,
+Samuel Andrade Resende ,
 Thomas Sheldon Freire Padley 
 
 Conversa com a IA:
